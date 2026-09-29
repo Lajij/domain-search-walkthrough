@@ -11,7 +11,7 @@ Vercel now lets you search domains without authentication.
 Discovery open. Purchase intentional.
 
 I walked through it here (interactive demo, ~2 min):
-[LIVE_URL]
+https://domain-search-walkthrough.vercel.app
 
 Changelog: https://vercel.com/changelog/search-domains-without-authentication
 

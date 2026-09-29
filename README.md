@@ -2,7 +2,7 @@
 
 Vercel-branded interactive Next.js walkthrough for LinkedIn: public domain discovery via CLI and Registrar API (no auth for search; auth still required to buy).
 
-**Live demo:** deploy URL after production deploy  
+**Live demo:** https://domain-search-walkthrough.vercel.app  
 **Changelog:** https://vercel.com/changelog/search-domains-without-authentication
 
 ## Local
